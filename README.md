@@ -3,7 +3,7 @@
 **Desenvolvedor Web | Apaixonado por Soluções Tecnológicas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-figueiredo-alves/)
-[![Acessar o portfolio](https://img.shields.io/badge/Acessar%20o%20portfolio-00B5E2?style=for-the-badge)](https://renato-figueiredo.github.io/portfolio-pessoal/)
+<!--[![Acessar o portfolio](https://img.shields.io/badge/Acessar%20o%20portfolio-00B5E2?style=for-the-badge)](https://renato-figueiredo.github.io/portfolio-pessoal/)-->
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatofigueiredoalves@gmail.com)
 
 ---
