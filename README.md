@@ -18,6 +18,7 @@ Desenvolvedor focado em soluções web eficientes e criativas, com experiência 
 
 <img src="assets/divider.svg" width="100%"/>
 
+<!--
 ## 🚀 Projetos em destaque
 
 <table>
@@ -36,6 +37,7 @@ Desenvolvedor focado em soluções web eficientes e criativas, com experiência 
 Também criei extensões privadas de automação para ambientes corporativos.
 
 <img src="assets/divider.svg" width="100%"/>
+-->
 
 ## 🛠️ Stack
 
