@@ -1,50 +1,63 @@
-# Renato Figueiredo 👋
+<div align="center">
 
-**Desenvolvedor Web | Apaixonado por Soluções Tecnológicas**
+<img src="assets/banner-grid.svg" alt="Renato Figueiredo" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-figueiredo-alves/)
-<!--[![Acessar o portfolio](https://img.shields.io/badge/Acessar%20o%20portfolio-00B5E2?style=for-the-badge)](https://renato-figueiredo.github.io/portfolio-pessoal/)-->
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatofigueiredoalves@gmail.com)
+<!-- Alternativas: assets/banner-wave.svg · assets/banner-terminal.svg -->
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-figueiredo-alves/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950)](mailto:renatofigueiredoalves@gmail.com)
+![Visitas](https://komarev.com/ghpvc/?username=renato-figueiredo&color=2ea043&style=for-the-badge&label=VISITAS)
 
-### Sobre Mim
+</div>
 
-Sou um desenvolvedor focado na criação de soluções web eficientes e criativas. Com experiência sólida no desenvolvimento de sites institucionais e projetos de automação, minha paixão é transformar ideias em realidade através da tecnologia. Estou sempre em busca de novos desafios e em constante aprendizado para aprimorar minhas habilidades e acompanhar as tendências do mercado.
+<img src="assets/divider.svg" width="100%"/>
 
----
+## 👋 Sobre mim
 
-### 🚀 Projetos em Destaque
+Desenvolvedor focado em soluções web eficientes e criativas, com experiência em sites institucionais e automação. Transformo ideias em produtos e estou sempre aprendendo.
 
-**neoChronos - Extensão para Gestão de Tempo**
+<img src="assets/divider.svg" width="100%"/>
 
-Atualmente, estou focado no desenvolvimento do **neoChronos**, uma extensão para o Google Chrome projetada para otimizar a contabilidade de horas de trabalho. A versão 1.0.0 já está disponível e permite o registro de horas utilizando o `storage` do navegador. A próxima fase do projeto inclui a integração com o Firebase para sincronização de dados na nuvem.
+## 🚀 Projetos em destaque
 
-* **Tecnologias:** `JavaScript`, `Vue.js` e `Firebase`.
-* **Acesse a primeira release:** [Clique aqui para ver a versão 1.0.0](https://github.com/renato-figueiredo/NeoChronos/releases/tag/v1.0.0)
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/renato-figueiredo/NeoChronos"><img src="assets/card-neochronos.svg"/></a></td>
+<td width="50%"><img src="assets/card-soon.svg"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/card-soon.svg"/></td>
+<td width="50%"><img src="assets/card-soon.svg"/></td>
+</tr>
+</table>
 
-**Outros Projetos**
+> **neoChronos** — v1.0.0 disponível, registro de horas via `storage`. Próxima fase: sincronização na nuvem com Firebase. [Ver release](https://github.com/renato-figueiredo/NeoChronos/releases/tag/v1.0.0)
 
-Desenvolvi também extensões para automação de tarefas em ambientes corporativos. Estes projetos, embora privados, me permitiram aprofundar meus conhecimentos em `JavaScript` e na criação de ferramentas que otimizam o fluxo de trabalho e aumentam a produtividade.
+Também criei extensões privadas de automação para ambientes corporativos.
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack
 
-Tenho uma base sólida em tecnologias de front-end e estou expandindo minhas habilidades no back-end para criar aplicações completas e robustas.
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=3fb950"/>
+</p>
 
-| Front-end | Back-end | Aprendendo Atualmente |
-| --- | --- | --- |
-| `JavaScript` | `Node.js` | `PHP` |
-| `React` | `Python` | `Laravel` |
-| `Bootstrap` | | `MongoDB` |
-| | | `GraphQL` |
+**Aprendendo:** `PHP` · `Laravel` · `MongoDB` · `GraphQL`
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-### ✨ Estatísticas e Contribuições
+## ✨ Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renato-figueiredo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-figueiredo&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=renato-figueiredo&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=3fb950&icon_color=2ea043&text_color=e6edf3"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-figueiredo&layout=compact&langs_count=7&bg_color=0d1117&border_color=30363d&title_color=3fb950&text_color=e6edf3"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=renato-figueiredo&background=0d1117&stroke=30363d&ring=3fb950&fire=2ea043&currStreakLabel=3fb950&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&border=30363d"/>
 </div>
